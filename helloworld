@@ -1,0 +1,9 @@
+
+class test()
+{
+public static main()
+{
+system.out.println("hii ganesh this is a java world");
+}
+}
+
